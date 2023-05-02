@@ -8,5 +8,10 @@ public class AtmProject {
         //version3
         System.out.println("git ogrenmek cok kolay");
         //version4
+        System.out.println("nesibe kodunu yazdi");
+        //version nsb1
+        System.out.println();
+        //localde degisiklik yaptim.
+
     }
 }
