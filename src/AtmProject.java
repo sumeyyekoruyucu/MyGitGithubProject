@@ -12,6 +12,7 @@ public class AtmProject {
         //version nsb1
         System.out.println();
         //localde degisiklik yaptim.
+        //remote da degisiklik yaptim.
 
     }
 }
